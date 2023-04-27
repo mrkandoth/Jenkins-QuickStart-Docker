@@ -6,7 +6,7 @@ A quick start Jenkins deployment using Docker and Docker Compose
 ### 1. Create Jenkins Home directory
 
 ```javascript
-mkdir -p jenkins-data/jenkins-home
+mkdir -p jenkins-data/jenkins_home
 ```
 ### 2. Create Docker-compose file using docker-compose-template.yml
 
